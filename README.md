@@ -1,4 +1,4 @@
-# hotelfront
+# HotelRoomReservationSystemFront
 
 ## Project setup
 ```
