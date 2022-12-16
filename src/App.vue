@@ -36,10 +36,10 @@ li {
   list-style-type: none;
 }
 
-.container {
-  padding: 3%;
-  background-color: lightgray;
-  border-radius: 15px;
-  border: 1px solid gray;
-}
+/*.container {*/
+/*  padding: 3%;*/
+/*  background-color: lightgray;*/
+/*  border-radius: 15px;*/
+/*  border: 1px solid gray;*/
+/*}*/
 </style>
